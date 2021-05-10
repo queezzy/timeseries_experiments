@@ -9,6 +9,6 @@ The first notebook named timeseries_fundamentals aims to create artificial times
 
 The second notebook named timeseries_basic_forecasting consists on basic methods used to predict the value of a specific serie given previous data. On that notebook we covered following approches : 
 
-* The naive approach : It consists on predicting as the value of a timeserie x at time t, the value of that serie at time t-1. 
+* The naive approach : It consists on predicting as the value of a timeserie x at time t, the value of that serie at time t-1.  
 `x(t) = x(t-1)`
 
